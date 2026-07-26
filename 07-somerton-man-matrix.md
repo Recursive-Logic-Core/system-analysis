@@ -5,8 +5,7 @@
 ---
 
 ## 1. Die kognitive und psychologische Prämisse
-* **Der biologische Vektor:** Unter extremem Todes- und Verfolgungsdruck greift das menschliche Gehirn auf tief verankerte Automatismen zurück. Das Alphabet wird linear vorwärts aufgesagt; komplexe rückwärts gerichtete Operationen fallen unter Adrenalin aus.
-* **Die 4-Schritte-Taktung:** Die Verschiebung um exakt 4 Schritte im Alphabet korreliert direkt mit der architektonischen Grundstruktur des Buches (der Vierzeiligkeit der Strophen / Quatrains).
+* **Der biologische Vektor:** Unter extremem Todes- und Verfolgungsdruck führt niemand komplexe mathematische Verschiebungen (wie Shift-Minus-4) im Kopf aus. Das System muss unter Adrenalin augenblicklich und fehlerfrei funktionieren.
 * **Der Telegramm-Stil:** Agenten unter Zeit- und Lebensdruck verfassen keine Romane, sondern fragmentarische, präzise Statusmeldungen.
 
 ## 2. Operatives Szenario & Historische Kausalität
@@ -18,16 +17,22 @@
 1. `MRGOABABD` *(Initiale M evtl. als W lesbar)*
 2. `MLIAOI` *(Sauber durchgestrichen – Markierung als „Erledigt / Abgehakt“ statt Fehler)*
 3. `MTBIMPANETP` *(Finaler Buchstabe P evtl. als D lesbar)*
-4. `MLIABOAIAQC` *(Inklusive des Q-Rasters / Quarrel für bereinigte Konflikte)*
+4. `MLIABOAIAQC` *(Inklusive des Q-Rasters für bereinigte Konflikte)*
 5. `ITTMTSAMSTGAB`
 
-## 4. Nächste Arbeitsschritte (Work in Progress)
+## 4. Methodischer Ansatz: Das Positions- und Anker-Verfahren
+Statt künstlicher Buchstabentransformationen basiert der Code auf einer physischen Schreib-Koordinaten-Logik unter Zeitdruck:
+* **Das Q-Anker-Prinzip:** Da der Buchstabe **Q** im Text der 1. Ausgabe extrem selten ist (exakt 2 Vorkommen), dient er als fixer, mathematischer Start- und Prüfpunkt. Die Positionen dieser Q-Wörter werden als fester Rasterpunkt in den Versen angesteuert.
+* **Das Koordinaten-System:** Der Schreiber nutzte feste, wiederkehrende Muster (z. B. ein fixes Wort an einer exakten Versposition wie das 2. Wort im 2. Vers) innerhalb des Todes-Pools, um die Buchstaben direkt abzugreifen. 
+* **Prüfung in Excel:** Durch die systematische Übertragung des Textes in eine Excel-Struktur werden diese festen Vers- und Wortpositionen iteriert, bis die Sequenzen lückenlos aufgehen.
+
+## 5. Nächste Arbeitsschritte (Work in Progress)
 
 | Phase | Aktion | Status |
 | :--- | :--- | :--- |
-| **01** | Vollständigen Text der FitzGerald-Übersetzung in eine Excel-Struktur übertragen (Wort für Wort / Vers für Vers) | In Bearbeitung (Work in Progress) |
-| **02** | Finalen Todes-Strophen-Pool und Schlüsselwörter filtern | Vorbereitet |
-| **03** | Shift-4-Matrix auf die Initialen/Endbuchstaben und das Q-Raster anwenden | In Prüfung |
+| **01** | Vollständigen Text der FitzGerald-Übersetzung Vers für Vers / Wort für Wort in Excel übertragen | In Bearbeitung (Work in Progress) |
+| **02** | Die 2 Q-Stellen in der Ausgabe isolieren und als Fixpunkt-Anker definieren | Vorbereitet |
+| **03** | Positions-Matrix (feste Wort-/Vers-Zählungen im Todes-Pool) auf die Codezeilen anwenden | In Prüfung |
 
-## 5. Fazit
-Keine zufällige Chiffre, sondern eine strukturierte Agenten-Matrix auf Basis eines festen literarischen Registers unter Extremdruck.
+## 6. Fazit
+Keine theoretische Spielerei, sondern eine rein mechanische, unter Zeitdruck erstellte Koordinaten-Schablone auf Basis eines festen literarischen Registers.
