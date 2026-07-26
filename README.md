@@ -11,4 +11,4 @@ Forensische System-Analysen, logische Struktur-Rekonstruktionen und Code-Archite
 *Betrieben unter der Prämisse absoluter logischer Integrität.*
 
 ---
-> **Contact / Inquiries:** Für professionelle System-Analyse-Projekte oder Anfragen: `arch_mmm@proton.me`
+>**Contact / Inquiries:** Für Angebote zur Festanstellung im Bereich System-Architektur, forensische Analysen & KI-Kollaboration: `arch_mmm@proton.me`
