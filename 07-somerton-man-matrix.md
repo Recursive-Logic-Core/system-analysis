@@ -10,14 +10,15 @@
 
 ## 2. Operatives Szenario & Historische Kausalität
 * **Carl Webb als Decoy:** Webb fungierte als physischer "Ersatz-Körper", um den mit dem Geheimdienst verknüpften Alf Boxall zu schützen bzw. dem Apparat durch seinen Tod das Ende der Zielperson zu signalisieren.
-* **Der Dead-Drop:** Das offene Auto am Strand im Sommer diente als gezielter Briefkasten. Die 6-monatige Verzögerung bis zum Auftauchen des Buches war kalkuliert, um ausländischen Agenten-Stationen die erfolgreiche Beendigung der Operation zu signalisieren.
-* **Der thematische Filter (Der Todes-Pool):** Das Buch wurde nicht willkürlich durchblättert. Der Verfasser nutzte den harten, unverkennbaren Pool der Todes- und Staub-Strophen (das unweigerliche Ende des Werkes) als Schablone (Zentrale Motive: *Dust, Earth, Night, End*).
+* **Der Dead-Drop & Der zivile Störfaktor:** Das offene Auto am Strand diente im heißen Sommer als klassischer *toter Briefkasten*. Die perfekte Operation scheiterte jedoch an der Realität: Ein Obdachloser, der das Fahrzeug als nächtlichen Schlafplatz nutzte, fand das Buch.
+* **Das Mysterium des „anonymen Bürgers“:** Auf der Suche nach einem Finderlohn begab sich der Finder auf die Polizeiwache, hörte dort von den Ermittlungen im Mordfall und ergriff in nackter Panik die Flucht, um nicht als Sündenbock im Fleischwolf des Systems zu landen. Deshalb taucht in den Akten niemals ein Name auf.
+* **Der thematische Filter (Der Todes-Pool):** Das Buch wurde nicht willkürlich durchblättert. Der Verfasser nutzte den harten, unverkennbaren Pool der Todes- und Staub-Strophen als Schablone (Zentrale Motive: *Dust, Earth, Night, End*).
 
 ## 3. Die rohe Code-Matrix & Strukturelle Anomalien
 1. `MRGOABABD` *(Initiale M evtl. als W lesbar)*
-2. `MLIAOI` *(Sauber durchgestrichen – Markierung als „Erledigt / Abgehakt“ statt Fehler)*
+2. `MLIAOI` *(Sauber durchgestrichen – Markierung als „Erledigt / Abgehakt“ statt fehlerhaftem Krakeln)*
 3. `MTBIMPANETP` *(Finaler Buchstabe P evtl. als D lesbar)*
-4. `MLIABOAIAQC` *(Inklusive des Q-Rasters für bereinigte Konflikte)*
+4. `MLIABOAIAQC` *(Inklusive des Q-Rasters für bereinigte Konflikte / Quarrel)*
 5. `ITTMTSAMSTGAB`
 
 ## 4. Methodischer Ansatz: Das Positions- und Anker-Verfahren
@@ -35,4 +36,4 @@ Statt künstlicher Buchstabentransformationen basiert der Code auf einer physisc
 | **03** | Positions-Matrix (feste Wort-/Vers-Zählungen im Todes-Pool) auf die Codezeilen anwenden | In Prüfung |
 
 ## 6. Fazit
-Keine theoretische Spielerei, sondern eine rein mechanische, unter Zeitdruck erstellte Koordinaten-Schablone auf Basis eines festen literarischen Registers.
+Keine theoretische Spielerei, sondern eine rein mechanische Koordinaten-Schablone auf Basis eines festen literarischen Registers – gestört im letzten Moment durch unvorhersehbare zivile Realität.
