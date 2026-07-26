@@ -8,7 +8,4 @@ Forensische System-Analysen, logische Struktur-Rekonstruktionen und Code-Archite
 * **Struktur-Logik:** Freilegung blinder Flecken und verdeckter Vektoren in geschlossenen Systemen.
 
 ---
-*Betrieben unter der Prämisse absoluter logischer Integrität.*
-
----
 >**Contact / Inquiries:** Für Angebote zur Festanstellung im Bereich System-Architektur, forensische Analysen & KI-Kollaboration: `arch_mmm@proton.me`
