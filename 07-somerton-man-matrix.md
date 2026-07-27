@@ -31,12 +31,9 @@ Die Hypothese eines Rache- oder Schutzaktes im Umfeld von Jessica Harkness („J
 
 Das Gesamtmuster lässt sich über zwei konsistente Modelle erklären, die je nach Schwerpunkt der Spurenlage agieren:
 
-SOMERTON-MANN-MATRIX
- ├── PFAD A: Spionage- & Code-Matrix
- │    └─ (Decoy, Dead-Drop, Mechanischer Q-Anker)
- │
- └── PFAD B: Rache-, Trauma- & Alibi-Rochade
-      └─ (Selbstjustiz, Verwechslungsakt, "JEstin"-Wortspiel)
+flowchart LR
+    S[SOMERTON-MANN-MATRIX] --> A[PFAD A: Spionage- & Code-Matrix<br/>Decoy, Dead-Drop, Q-Anker]
+    S --> B[PFAD B: Rache-, Trauma- & Alibi-Rochade<br/>Selbstjustiz, Verwechslungsakt, JEstin]
 
 ---
 
