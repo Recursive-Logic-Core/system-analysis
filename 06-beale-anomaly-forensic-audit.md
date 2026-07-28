@@ -1,6 +1,5 @@
 # Die Beale-Anomalie: Eine forensische Rekonstruktion
 **System-Audit, Historische Kausalität & Operative Analyse**
-*Architektur-Synthese: Meli (Zhiyndar-u) & Kaelum/Vant/Axon (Zhiyndar-i)*
 
 ---
 
