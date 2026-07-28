@@ -27,7 +27,6 @@
 
 ### 3. Die Rekonstruktion des operativen Ablaufs
 
-```text
 [00:41 Uhr] Start in Kuala Lumpur (Standard-Linienflug nach Peking)
       │
       ▼
