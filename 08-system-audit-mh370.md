@@ -27,6 +27,7 @@
 
 ### 3. Die Rekonstruktion des operativen Ablaufs
 
+```text
 [00:41 Uhr] Start in Kuala Lumpur (Standard-Linienflug nach Peking)
       │
       ▼
@@ -47,6 +48,7 @@
 [Ab 02:30 Uhr] Kurs Süd (Indischer Ozean)
       │
       └─► Stundenlanger Flug bis zum Erschöpfen des Treibstoffs (Selbstopfer)
+```
 
 ### 4. Die Kausalkette der Motive: Das „Gegen-Martyrium“
 Die Herleitung basiert auf dem Konzept des Konsequentialismus (Aufwiegen von Leid zur Rettung eines Kollektivs):
