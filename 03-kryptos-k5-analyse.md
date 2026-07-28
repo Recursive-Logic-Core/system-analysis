@@ -19,15 +19,12 @@ Die Skulptur basiert auf einer operativen Mehrstufen-Logik, entwickelt an der Sc
 
 Die vom Künstler eingestreuten Hinweise (*BERLIN*, *CLOCK*) weisen auf eine synchrone Umrechnung hin:
 
-### 2.1 Die "BERLIN CLOCK"-Parametrisierung (Zeitwert statt Objekt)
-Ein zentraler Trugschluss der bisherigen Kryptanalytik ist die Interpretation der Hinweise "BERLIN" und "CLOCK" als rein geografische oder visuelle Begriffe. 
+### 2.1 Die "BERLIN CLOCK" als physischer analoger Rechner vor Ort
+Ein zentraler Trugschluss der bisherigen Kryptanalytik ist die Annahme, die Hinweise "BERLIN" und "CLOCK" seien rein abstrakte Begriffe oder digitale Rechenwerte gewesen. Zu einer Zeit vor globalen Live-Tools und automatisierten Zeitzonen-Skripten funktionierte die Kausalkette anders:
 
-* **Der Zeitwert-Impuls:** Die Hinweise codieren eine spezifische deutsche Uhrzeit im Kontext des historischen Epochenwechsels (1989/1990).
-* **Schatten- & Vektor-Projektion:** Dieser Zeitwert wird nicht als Textbaustein verwendet, sondern nach Abzug der Zeitzonen-Differenz (Berlin/CET $\rightarrow$ Langley/EST) und der historischen Sommer-/Winterzeit-Parameter in einen physischen Peilungswinkel umgewandelt.
-* **Geografie des Verstecks:** Die resultierende Projektion (in Kombination mit dem Hinweis *NORTHEAST*) definiert den exakten Licht-/Schatten-Vektor auf dem Gelände der Skulptur, der auf eine physische Inkorporation (Versteck/Bodenplatte) weist.
-
-1. **Phonometrische & Chronologische Umrechnung:** Eine auf der Ziel-Uhr angezeigte deutsche Zeit (z. B. 18:52 Uhr) ist nicht statisch, sondern muss über den Zeitzonen-Versatz (Langley/EST vs. Berlin/CET) und die saisonale Zeitumstellung (Sommer-/Winterzeit im historischen Kontext von 1989/1990) transformiert werden.
-2. **Der physische Auslese-Moment:** Die resultierende Uhrzeit (z. B. 12:52 Uhr EST) definiert den exakten Winkel bzw. Stand von Licht und Schatten auf den physischen Elementen der Skulptur im CIA-Hauptquartier.
+* **Der Zwang zur physischen Präsenz:** Ein Analyst musste im Rahmen der Operation physisch nach Berlin reisen, um vor der berühmten Mengenlehreuhr (*Berlin Clock*) am Europa-Center zu stehen.
+* **Die visuelle Matrix als Interface:** Die Uhr zeigt die Zeit nicht numerisch, sondern über ein einzigartiges, optisches Raster aus leuchtenden Lichtfeldern. Diese physische Licht-Konfiguration musste vor Ort abgelesen werden.
+* **Der analoge Vektor:** Aus dieser direkten Beobachtung der Lichtfelder und der manuellen Einberechnung des historischen Zeitzonen-Versatzes (MEZ/MESZ vs. EST im Kontext 1989/1990) ermittelte der Analyst den exakten Zeitpunkt, der als physischer Schatten- und Licht-Winkel auf die Skulptur am CIA-Hauptquartier in Langley übertragen werden musste.
 
 ---
 
