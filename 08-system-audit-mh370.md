@@ -49,3 +49,33 @@
       │
       └─► Stundenlanger Flug bis zum Erschöpfen des Treibstoffs (Selbstopfer)
 
+### 4. Die Kausalkette der Motive: Das „Gegen-Martyrium“
+Die Herleitung basiert auf dem Konzept des Konsequentialismus (Aufwiegen von Leid zur Rettung eines Kollektivs):
+
+A. Der politische Zusammenbruch (Plan A & B gescheitert)
+
+Mai 2013: Opposition gewinnt die Mehrheit der Stimmen (Popular Vote), verliert jedoch durch Gerrymandering/Wahlmanipulation. Demokratischer Weg gesperrt.
+
+7. März 2014: Die politische Führung verurteilt Oppositionsführer Anwar Ibrahim kurz vor dem Flug in einem Schauprozess. Juristischer Weg gesperrt.
+
+B. Das Motiv des Befreiungsschlags
+Zaharie sah im anonymen Verschwinden des Flaggschiffs der Staatsairline die letzte verbleibende Option, um die Inkompetenz, Hilflosigkeit und Korruption des Regimes unumstößlich vor den Augen der Weltpresse (insb. Chinas und der USA) zu entblößen.
+
+C. Das taktische Vakuum (Kein Nachweis, keine Schande)
+Es gab keinen Abschiedsbrief und kein öffentliches Bekenntnis, weil dadurch jeder offizielle Beweis für ein politisches Attentat oder einen Selbstmord fehlte. Ohne diesen Beweis konnte das Regime weder die Familie noch die Partei juristisch belangen, verfolgen oder als Terroristen brandmarken.
+
+D. Das spurlose Verschwinden als Druckmittel
+Die Wahl eines Ozean-Korridors, in dem das Wrack unauffindbar blieb, war zwingend notwendig: Nur als ungelöstes, permanentes Phantom konnte der Fall das maximale Aufsehen erzeugen und die Staatsführung kontinuierlich destabilisieren, ohne einen angreifbaren juristischen Anker für Repressionen zu hinterlassen. Die präzisen Flugmanöver waren dabei der rein technische Garant, dass dieser Korridor lückenlos und unbemerkt erreicht wurde.
+
+E. Die persönliche Buße
+Der Pilot handelte nicht aus irrem Hass, sondern opferte sein eigenes Leben, seinen Ruf und seine Seele, um die Passagiere schmerzfrei (Hypoxie) zu eliminieren und sich im Anschluss selbst dem qualvollen Ende über dem Süd-Ozean auszusetzen – als Buße für die notwendige Schuld.
+
+### 5. Das historische Ergebnis
+Der Katalysator-Effekt: Die Blamage vor der Weltöffentlichkeit zerriss den Mythos der Unbesiegbarkeit des Regimes.
+
+Der Scheinwerfer: Die wegen MH370 anwesenden Ermittler und Medien deckten in der Folge den Milliarden-Korruptionsskandal (1MDB) auf.
+
+Der Sturz 2018: 2018 wurde das Regime nach 61 Jahren vom Volk abgewählt. Anwar Ibrahim wurde begnadigt und 2022 zum Premierminister gewählt.
+
+### Fazit
+Aus forensischer Sicht bleibt die Tat mangels Aufzeichnungen im Cockpit unbewiesen. Aus systemischer und soziologischer Sicht bietet die Hypothese des politisch motivierten Selbstopfers jedoch die einzige schlüssige Synthese aus den fliegerischen Fakten, der Persönlichkeit des Kapitäns und den weltpolitischen Konsequenzen.
