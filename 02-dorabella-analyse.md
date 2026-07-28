@@ -26,8 +26,13 @@ Das Scheitern mathematischer Standard-Dekodierungen legt nahe, dass der Code ein
 
 ### 2.3 Operative Zielsetzung (Der London-Kontext)
 Die zeitliche Überschneidung des Briefes mit Elgars Aufenthalt in London deutet auf ein versuchtes, zeitkritisches Zusammentreffen hin. Das Nicht-Ankommen der Nachricht oder das Verpassen des richtigen Referenz-Mediums führte zum Scheitern der Kommunikation und erklärt das darauffolgende Ausbleiben weiterer Versuche sowie die emotionale Distanzierung.
-### 2.4 Der Faktor "Intuitive Zielgruppen-Symmetrie" (Low-Barrier / High-Security)
-Ein zentraler Fehler der bisherigen Forschung ist die Annahme, der Sender habe ein komplexes, mathematisch zeitaufwendiges Verschlüsselungsverfahren gewählt. 
+### 2.4 Der Faktor "Indirekt geteilter Kontext" (Intellektuelle Symmetrie statt Brute-Force)
+Die bisherige Forschung scheitert daran, dass sie die Chiffre als isoliertes, mathematisches Rätsel behandelt. Die operative Realität basierte stattdessen auf einem feinen, indirekt geteilten Kontext:
+
+* **Die intellektuelle Prämisse:** Dora Penny war keineswegs unbedarft. Elgar kalkulierte mit ihrem Intellekt und ging davon aus, dass kein plump direktes Erklärungsmuster nötig war. Die Chiffre setzte auf einen subtilen, indirekt geteilten Resonanzraum auf – Anspielungen, Verknüpfungen und Frequenzen, die ihnen beiden aus ihrer Interaktion vertraut waren.
+* **Das intuitive Overlay:** Seine Erwartung war, dass ihr Verstand genau diesen indirekten Faden aufnimmt: Sie würde den Zettel nehmen, ihn an das Fenster gegen das Licht halten und das korrekte Referenzdokument darunterlegen, um die Botschaft zu entschlüsseln.
+* **Das kalkulierte Zeitfenster:** Elgar wartete bewusst mehrere Tage in London. Er ging davon aus, dass dieser intellektuelle Funke bei ihr überspringen und als Initialzündung für eine Reise nach London genügen würde.
+* **Warum es scheiterte:** Dora Penny suchte im falschen Raster oder verpasste die feine, indirekte Verbindung im entscheidenden Moment. Elgars Schock resultierte nicht daraus, dass die Chiffre zu komplex war, sondern aus der bitteren Enttäuschung, dass der von ihm als zwingend vorausgesetzte, indirekte Kontext von ihr nicht decodiert wurde.
 
 * **Zeitkritischer Handlungsdruck:** Im Kontext des bevorstehenden London-Aufenthalts stand der Sender unter erheblichem Zeitdruck. Eine Nachricht, deren Entzifferung Wochen oder Tage intensiver Rechenarbeit erfordert hätte, widerspricht dem operativen Zweck.
 * **Low-Barrier-Prinzip:** Der Code musste für Dora Penny **innerhalb von Minuten ohne Hilfsmittel** (wie Kryptografie-Tabellen oder Fachliteratur) lesbar sein. Er basierte zwingend auf einem unmittelbaren, intimen Impuls oder einer Alltagshandlung (z. B. das einfache Anhalten des Zettels an ein bereits im Raum vorhandenes Objekt oder Fenster gegen das Licht).
