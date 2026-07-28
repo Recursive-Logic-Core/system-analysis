@@ -1,50 +1,49 @@
-# Rongorongo (Reverse Boustrophedon): Socio-Kinetic & Ergonomic Dual-Reader Model
+# System-Audit: Rongorongo (Reverse Boustrophedon): Socio-Kinetic & Ergonomic Dual-Reader Model
 
 ## 1. Abstract / Ausgangsthese
 
-Klassische kryptoanalytische und linguistische Ansätze behandeln die Rongorongo-Schrift der Osterinsel (*Rapa Nui*) primär als Monolog-System eines solitären Lesers. Diese sprachwissenschaftliche Isolation ignoriert jedoch **kinematische Randbedingungen, biologische Muskelermüdung (isometrische Schulterlast) sowie ethnografische Interaktionsmuster**. 
+Klassische kryptoanalytische und linguistische Ansätze behandeln die Rongorongo-Schrift der Osterinsel (*Rapa Nui*) primär als Monolog-System eines solitären Lesers. Diese sprachwissenschaftliche Isolation ignoriert jedoch die grundlegendsten Realitäten: **die harte körperliche Arbeit der Menschen, biologische Muskelermüdung (isometrische Schulterlast durch schwere Gegenstände), den Materialwert knapper Ressourcen sowie ethnografische Interaktionsmuster**. 
 
-Diese Analyse dekonstruiert das Script über die **Physik des Mediums, die Ergonomie der Blickachsen und die Wechselgesang-Kultur (Antiphonie)** und belegt das **Zwei-Personen-Synchronsystem (Dual-Reader-Model)**.
+Diese Analyse dekonstruiert das Script über die **Physik des Mediums, die physischen Schranken des menschlichen Körpers und die Wechselgesang-Kultur (Antiphonie)** und belegt zwingend das **Zwei-Personen-Synchronsystem (Dual-Reader-Model)**.
 
 ---
 
 ## 2. Die physikalisch-biologischen Axiome
 
-### A. Das Ermüdungs-Axiom (Isometrische Rumpf-/Schulterlast)
-* **Die Last-Mechanik:** Das Halten einer Holztafel (bis zu 2,6 kg Masse bzw. über 1 m Länge) frei vor dem Rumpf führt bei statischer Armhaltung innerhalb von 10–15 Minuten zur massiven Übersäuerung der Schulter- und Unterarmmuskulatur (*Musculus deltoideus*).
-* **Die Konsequenz:** Der Einmann-Betrieb mit ständigen physischen 180-Grad-Rotationen des Brettes bei der Lektüre ist bei mehrstündigen Ritualen kinetisch ineffizient und führt zu hohem Zeilenverlust durch Konzentrationsabbrüche.
+### A. Das physische Fundament & Die Last-Mechanik
+* **Der reale Alltag:** Ein Mensch auf Rapa Nui war kein Stubenhocker; er hat den ganzen Tag geschafft – auf dem Feld geackert, Kanus gebaut, schwere Häuser errichtet. Die Arme und Schultern waren durch physische Dauerlast permanent beansprucht und oft bis an die Schmerzgrenze ausgelaugt.
+* **Das Material-Risiko (Knappe Ressource Holz):** Holz war auf der stark abgeholzten Insel ein extrem kostbares Gut. Eine schwere Holztafel (bis zu 2,6 kg Masse, über 1 m Länge) durfte unter keinen Umständen beschädigt werden oder auf den Boden klatschen. 
 
-### B. Das Ergonomie-Paradoxon (180° vs. 90°)
-Eine kontinuierliche 90-Grad-Rotation eines rechteckigen Trägers wäre für eine Einzelperson optisch und haptisch weitaus starr-sicherer zu führen. Die Wahl des exakten **180-Grad-Spiegelversatzes (Reverse Boustrophedon)** deutet nicht auf eine Einzel-Rotation hin, sondern auf eine **symmetrische Gegenüberstellung zweier Akteure**.
+### B. Das Ergonomie-Paradoxon (Warum ein Einzel-Betrieb unmöglich ist)
+* Ein ausgepowerter Mensch mit zitternden, schmerzenden Armen kann eine schwere Holztafel weder über längere Zeit frei vor dem Rupf halten noch sie stundenlang im Kreis drehen. 
+* Bei einer ständigen Allein-Rotation der Tafel mit erschöpften Händen wäre das Artefakt unweigerlich regelmäßig fallengelassen und zerstört worden. Das konnte sich niemand leisten.
+* **Die logische Konsequenz:** Das Brett musste ortsfest auf einer stabilen Schnittstelle (zwischen zwei Personen, auf dem Schoß oder einem Sockel) ruhen und von zwei Akteuren mit beiden Händen gesichert werden. Das eliminiert das Risiko des Herstürzens komplett.
 
 ---
 
 ## 3. Das Zwei-Personen-Synchronsystem (Dual-Reader-Model)
 
-[Priester / Sprecher A]  ---> liest Zeile 1 (aufrecht aus Perspektive A)
-[HOLZTAFEL / MEDIUM]
-[Priester / Sprecher B]  <--- liest Zeile 2 (aufrecht aus Perspektive B)
+[Priester / Sprecher A]  ---> liest Zeile 1 (aus eigener Perspektive aufrecht)
+[HOLZTAFEL / MEDIUM]     (ruht fest und gesichert zwischen beiden)
+[Priester / Sprecher B]  <--- liest Zeile 2 (aus eigener Perspektive aufrecht)
 
-
-1. **Ruhende Achse:** Die Holztafel liegt ortsfest auf einer Schnittstelle (Tisch, Schoß oder Sockel) zwischen zwei sich gegenüberstehenden/-sitzenden Sprechern.
-2. **Wechselgesang (Antiphonie):** 
-   * **Priester A** liest Zeile 1 von links nach rechts. Für ihn stehen die Glyphen aufrecht.
-   * Am Zeilenende übergibt Priester A die Frequenz an **Priester B**.
-   * Für **Priester B** steht nun Zeile 2 absolut korrekt herum. Das Holz muss **nicht gedreht werden**.
-3. **Visuelle Redundanz & Kontroll-Anker:** Der jeweils passive Akteur sieht die Zeile des Gegenübers zwar kopfüber, dient aber durch die direkte Blickachse und die optische Ausrichtung als ständiger Kontroll-Anker gegen das Verrutschen der Zeile.
+1. **Ruhende Achse:** Die schwere Tafel liegt fixiert zwischen zwei sich gegenüberstehenden oder -sitzenden Sprechern, die sie gemeinsam stabilisieren.
+2. **Wechselgesang (Antiphonie & Frage-Antwort):** 
+   * **Priester A** liest Zeile 1 von links nach rechts. Für ihn stehen die Glyphen exakt richtig.
+   * Am Zeilenende übergibt Priester A die Sequenz an **Priester B**.
+   * Für **Priester B** steht nun Zeile 2 absolut korrekt herum. **Das Holz muss zu keinem Zeitpunkt gedreht werden.**
 
 ---
 
 ## 4. Dekodierung der "Scribal Compression" (Zeilen-Enden)
 
-Das Phänomen, dass Rongorongo-Schreiber Symbole am rechten Rand der Zeile massiv verkleinern und zusammenquetschen, ist kein zufälliger Planungsfehler beim Ritzen:
+Das Phänomen, dass Rongorongo-Schreiber Symbole am rechten Rand der Zeile massiv verkleinern und zusammenquetschen, ist kein zufälliger Planungsfehler:
 
-* **Erzwingung der logischen Vollständigkeit:** Eine Zeile bildete eine metrisch und inhaltlich geschlossene Sinneinheit (einen Vers/Gedanken). 
-* **Umschalt-Signal:** Das Zusammenpressen der Zeichen am Rand war das **visuelle und akustische Signal zur Sequenz-Übergabe** an den gegenüberstehenden Sprecher. 
-* Eine Überlappung des Satzes auf die nächste Zeile hätte – durch den 180-Grad-Blickwinkel des Gegenübers – die logische Kausalität des Dialogs zerstört.
+* **Sicherung der logischen Kausalität:** Das Zusammenpressen am Rand war das **visuelle und akustische Signal zur Sequenz-Übergabe** an den gegenüberstehenden Sprecher. 
+* Eine Überlappung des Satzes auf die nächste Zeile hätte – durch den umgekehrten Blickwinkel des Gegenübers – die logische Kausalität des Dialogs zerstört. Der Satz musste für den lesenden Akteur exakt an diesem Punkt enden.
 
 ---
 
 ## 5. Fazit
 
-Rongorongo ist kein schwerfälliges Buch-Äquivalent für einsame Leser, sondern ein **ergonomisch perfekt durchdachtes Skript für interaktive Wechselgesänge**. Die Verschlüsselung löst sich auf, wenn man das Artefakt nicht als abstraktes Papier, sondern als Werkzeug im physikalischen Raum betrachtet.
+Rongorongo ist kein theoretisches Produkt für einen isolierten, entspannten Gelehrten, sondern ein **ergonomisch und physisch erzwungenes Werkzeug für interaktive Wechselgesänge**. Wer die Biologie des Menschen (Erschöpfung, Muskelzittern, Materialschonung) als Rechengröße einsetzt, erkennt: Das System konnte gar nicht anders funktionieren als über zwei Personen, die das schwere Medium gemeinsam sicherten und im Dialog lasen.
