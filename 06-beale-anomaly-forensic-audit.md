@@ -1,88 +1,119 @@
-# Die Beale-Anomalie: Eine forensische Rekonstruktion
-**System-Audit, Historische Kausalität & Operative Analyse**
+# Somerton-Man-Matrix: Die Code- & Operations-Architektur
+
+**System-Audit, Forensische Kausalität & Zwei-Pfade-Analyse (Work in Progress)**
 
 ---
 
-## Executive Summary
-Seit 1885 suchen Kryptografen und Schatzsucher vergebens nach den Edelmetallen der sogenannten *Beale-Papiere* im Bedford County, Virginia. Die klassische Geschichtsschreibung scheitert an diesem Rätsel, weil sie fälschlicherweise von einer fiktiven Romantik-Erzählung um anonyme Wild-West-Goldgräber ausgeht.
+## 1. Die kognitive, physische & psychologische Stress-Prämisse
 
-Diese System-Analyse erbrachte eine lückenlose, geschlossene Kausalitätskette. Sie beweist: Die Beale-Anomalie war kein Rätselspiel, sondern das Produkt einer **strategischen Vermögenssicherung (Geldwäsche)** während des Finanzkollapses von 1819, einer **geheimen Vater-Sohn-Alphabetisierung** und eines **eiskalten operativen Täuschungsmanövers** der Pflanzer-Elite Virginias.
-
----
-
-## 1. Die Elite-Achse & Das Motiven-Gefüge (1817–1819)
-
-### A. Die Zusammensetzung der 30-köpfigen Gesellschaft
-Die Erzählung spricht von einer 30-köpfigen Expeditionsgruppe. Die logistische und finanzielle Realität des frühen 19. Jahrhunderts diktiert, dass es sich hierbei nicht um mittellose Abenteurer handelte, sondern um ein geschlossenes Konsortium der regionalen Pflanzer- und Offiziers-Elite um Bedford County und Monticello.
-
-* **Captain Thomas Beale Sr. (Militärischer Kopf):** Veteran und Captain im Krieg von 1812 (*Beale's Rifles* unter Andrew Jackson in New Orleans). Er verfügte über direkte Erfahrung mit militärischen Buch-Chiffren (Ottendorf-Codes) und besaß die organisatorische Härte für Bunkersysteme und Schwerstransporte.
-* **Thomas Jefferson (Politischer & Finanzieller Schirmherr):** Der Ex-Präsident wohnte auf seinem Zweitsitz *Poplar Forest* in direkter Nachbarschaft zu den Gütern der Beale-Familie im Bedford County. Jefferson war der führende Kryptografie-Experte der USA (Erfinder der *Jefferson-Walze*).
-
-### B. Das Motiv hinter Jeffersons ruinöser Bürgschaft (1817)
-* **Das historische Rätsel:** Im Jahr 1817 übernahm der ohnehin schwer verschuldete Thomas Jefferson völlig überraschend eine existenzbedrohende Bürgschaft über $20.000 für Wilson Cary Nicholas.
-* **Die Rekonstruktion:** Jefferson handelte keineswegs aus naiver Blauäugigkeit. Er unterschrieb die Bürgschaft aus dem Gefühl der absoluten finanziellen Absicherung: Er wusste als verdeckter Geldgeber/Patron der Expedition, dass Captain Beale Sr. im Westen auf Unsummen von Gold und Silber gestoßen war.
+* **Der biologische Vektor unter physischer Hast:**  
+  Unter extremem Handlungs- und Zeitdruck – getrieben von knappen Reiseverbindungen, einer unauffälligen Kurzzeit-Abwesenheit vom Arbeitsplatz (Krankmeldung/Sonderurlaub Ende November 1948) und dem Risiko der Entdeckung – ist von einem Akteur kaum die Ausführung komplexer, mentaler Rechenoperationen (wie Shift-Minus-4) zu erwarten. Wer unter Adrenalin und mit der ungeübten (linken) Hand unleserliche Blockbuchstaben auf eine Buchrückseite kritzelt, nutzt in der Regel eine **rein mechanische, fehlerfreie Direkt-Schablone**. Das System muss unter Stress augenblicklich und ohne Denkpausen funktionieren.
+* **Der operative Telegramm-Stil:**  
+  Akteure unter akutem Flucht- und Zeitdruck verfassen selten Prosa. Die Code-Zeilen lassen sich als fragmentarische, stakkatoartige Positions- und Statusmeldungen lesen, die in Sekundenschnelle während eines Notruf-Telefonats niedergeschrieben worden sein könnten, bevor das Transportmittel erreicht oder der Schauplatz gewechselt wurde.
 
 ---
 
-## 2. Der Doppel-Coup: Verrat & Vermögenssicherung (1819–1820)
+## 2. Die Motiv-Herleitung: Der Trauma- und Schutzvektor als Arbeitshypothese
 
-### A. Der Trigger: Panic of 1819
-Im Jahr 1819 brach das US-Finanzsystem zusammen. Pflanzer-Familien standen vor der Pleite, Banken pfändeten schadlos Vermögenswerte. Hätte die Expedition das Metall offiziell nach Virginia gebracht, wäre es sofort von den Gläubigern der insolventen Eliten (inklusive Jeffersons) beschlagnahmt worden.
+Die Hypothese eines Rache- und Präventiv-Schutzaktes im Umfeld von Jessica Harkness („Jestyn“) stützt sich auf eine synoptische Betrachtung von Genetik, Verhaltensbiologie, Zeitlinien und Aktenlage:
 
-### B. Der Verrat am Kollektiv
-* **Der Plan:** Captain Thomas Beale Sr. und sein unehelicher, gebildeter Lieblingssohn **Thomas Beale Jr.** erkannten die ausweglose Lage der Partner.
-* **Die Ausführung:** Sie entzogen das Metall dem Zugriff der Miteigentümer. Das Gold und Silber wurden 1820 heimlich in einer Höhle in Bedford County (1,83 m tief) verscharrt – nicht um es für das Kollektiv zu verwahren, sondern um es eiskalt vor den Gläubigern zu versiegeln.
-* **Der Absturz Jeffersons:** Jefferson wartete bis zu seinem Tod (1826) vergeblich auf den Zufluss der Mittel. Der Schatz erreichte seine Bücher nie.
-
----
-
-## 3. Die Dreifach-Chiffre & Die Geheime Alphabetisierung
-
-Die Transkriptionsfehler (Zeilensprünge, Zahlverschiebungen) in Papier 2 beweisen, dass die Codes nicht von einem gelehrten Akademiker am Schreibtisch entworfen wurden, sondern das Resultat einer **geheimen, im Dämmerlicht vollzogenen Alphabetisierung** von Thomas Beale Jr. durch seinen Vater waren.
-
-[Didaktik-Stufe 1] Privatbriefe des Vaters   ---> PAPIER 1 (Fundort)     [UNKNACKBAR - Unikat]
-[Didaktik-Stufe 2] Declaration of Independence ---> PAPIER 2 (Schatzinhalt) [GEKNACKT - Druckwerk]
-[Didaktik-Stufe 3] Testament / Familienerbe    ---> PAPIER 3 (Begünstigte)  [UNKNACKBAR - Unikat]
-
-### A. Papier 1 (Der Fundort) – Briefe der Ausbildung
-* **Quelle:** Private Vaterschafts- und Geschäftsbriefe von Thomas Beale Sr.
-* **Status:** Unknackbar. Da diese Handschriften Unikate im privaten Familienbesitz waren und nie gedruckt wurden, fehlt der Außenwelt das Referenz-Grid.
-
-### B. Papier 2 (Schatzinhalt) – Das Emanzipations-Manifest
-* **Quelle:** *Declaration of Independence* (1776).
-* **Genese:** Der Vater gab seinem unehelichen Sohn das Fundamentaldokument der amerikanischen Freiheit als Meisterstück der Schreibübung an die Hand. 
-* **Status:** Geknackt (1885). Als einziges der drei Dokumente basierte es auf einem weltweit öffentlich gedruckten Text.
-
-### C. Papier 3 (Die Begünstigten) – Das Geheime Testament
-* **Quelle:** Das private Handschreiben/Testament des Vaters an den Sohn über die wahren Abstammungs- und Erblinien.
-* **Status:** Unknackbar. Ein rein privates Relikt, das in keinem Archiv der Welt existiert.
+1. **Das konsequente Vaterschafts-Schweigen:**  
+   Jestyn verweigerte zeit ihres Lebens (und bis zu ihrem Tod 2007) jede Aussage zum leiblichen Vater ihres Sohnes Robin (* 01.11.1947). In der gesellschaftlichen Realität der Nachkriegszeit kann ein solches eisernes Schweigen als klassisches Schutzverhalten nach einem gravierenden Trauma (Zeugung ca. Januar/Februar 1947) interpretiert werden.
+2. **Die auffällige Merkmals-Konvergenz (Die visuelle Prämisse):**  
+   Sowohl der Somerton-Mann (Carl Webb) als auch Jestyns Sohn Robin wiesen zwei extrem seltene anatomische Besonderheiten auf:  
+   * Eine spezifische **Ohranatomie** (Cymba conchae größer als Cava conchae – Vorkommen bei ca. 1–2 % der Bevölkerung).
+   * Eine seltene **Hypodontie/Agenesie** (angeborenes Fehlen der zwei oberen Schneidezähne – Vorkommen bei unter 2 % der Bevölkerung).
+   
+   *Der psychologische Ansatz:* Ende November 1948 war Robin 13 Monate alt; seine Gesichtsmerkmale traten deutlicher hervor. Als Jestyn den fremden Carl Webb in Glenelg bemerkte, lag für sie nahe, in seinen seltenen Merkmalen das physische Echo des traumatischen Erlebnisses zu sehen. Ein Notruf an Boxall könnte in dieser akuten Anspannung erfolgt sein.
+3. **Akute Gefahrenabwehr:**  
+   Webb befand sich auf der Suche nach seiner getrennten Frau Dorothy (die ihn im April 1947 verlassen hatte). Für Jestyn konnte dieses Ausspähen wie das Bedrohungsszenario eines stalkenden Täters wirken.
+4. **Die Zäsur von 2022 (Die DNA-Beweisführung):**  
+   Erst die genetische Untersuchung von Prof. Derek Abbott im Jahr 2022 erbrachte den Nachweis: **Carl Webb war NICHT der Vater von Robin.** Da Jestyn und Boxall (gestorben 1995) zu diesem Zeitpunkt bereits verstorben waren, agierten sie 1948 in dem subjektiven Glauben, eine reale Bedrohung zu neutralisieren.
 
 ---
 
-## 4. Das Versteckspiel & Die "Falsche Fährte" (1822)
+## 3. Zwei gleichwertige operative Pfade
 
-* **Das Alter des Sohnes:** Thomas Beale Jr. (geboren ca. 1798–1805) war 1822 zwischen 17 und 24 Jahre alt.
-* **Die Bergung:** Das Metall lag nur kurze Zeit (1820–1822) in der Höhle. Der Sohn barg die Vorräte geräuschlos und schaffte sie schrittweise gen Süden (New Orleans / Texas).
-* **Die Decoy-Operation (Die Kiste von 1822):** Das Deplatzieren der verschlossenen Eisenkiste beim Gastwirt Robert Morriss im Frühjahr 1822 war eine eiskalte **falsche Fährte**.
-  * **Ziel:** Die Gläubiger des Vaters, die ruinierte Nachbarschaft in Virginia und die Behörden sollten ihre Ressourcen auf das Suchen von Höhlen im Wald fixieren.
-  * **Ergebnis:** Während der Osten Phantomen nachjagte, tauchte Thomas Beale Jr. mit dem liquiden Kapital ungestört im Süden/Westen ab.
+Das Gesamtmuster lässt sich über zwei konsistente Modelle abbilden, die je nach Schwerpunkt der Spurenlage operationalisiert werden können:
 
----
-
-## 5. Die Operative Sonde von 1885 (Der Belastungstest)
-
-Der anonyme Druck der Broschüre im Jahr 1885 war kein Spaßheftchen, sondern ein **eiskaltes Aufklärungsmanöver (*Intelligence Reconnaissance*)**:
-
-* **Biologisches Alter 1885:** Thomas Beale Jr. war 1885 ca. 80 bis 87 Jahre alt – ein hohes, aber für vermögende Männer absolut realistisches Alter (oder gehandhabt durch seinen direkten Haupterben).
-* **Der strategische Grund:** Vor einem finalen, großskaligen Re-Investment des geerbschten/verflüssigten Kapitals in die neuen US-Großkonzerne und Eisenbahnen des Westens musste die Familie sicherstellen, dass an der Ostküste keine Rechtsansprüche mehr existierten.
-* **Die Sonde:** Durch das Preisgeben von Papier 2 (des Gold-Volumens) testete man den Raum. 
-  * *Jurisdiakonische Reaktion:* Null. Keine Erben oder Gläubiger meldeten Ansprüche an.
-  * *Öffentliche Reaktion:* Blinde Schatzsucher stürzten sich mit Schaufeln in den Wald von Bedford County.
-* **Fazit:** Das Signal war grün. Die alten Feinde waren tot. Die Operation war nach 63 Jahren endgültig erfolgreich abgeschlossen.
+* **SOMERTON-MANN-MATRIX**
+  * **PFAD A: Die klassische Spionage- & Code-Matrix**  
+    *(Decoy, Dead-Drop, Mechanischer Q-Anker)*
+  * **PFAD B: Die Rache-, Trauma- & Alibi-Rochade**  
+    *(Präventiv-Akt, Verwechslungsakt, "JEstin"-Wortspiel)*
 
 ---
 
-## 6. Der Filter-Mechanismus: Rauschen vs. Präzisions-Signal
-* **Die Filter-Logik:** Die Veröffentlichung von Papier 2 war kein zufälliger Leak, sondern ein selektiver Köder. Die breite Öffentlichkeit ("die Schatzsucher mit den Schaufeln") verfügte über keinerlei Referenzen und war mathematisch und informationell komplett blind für die Realität.
-* **Das Ausschlussverfahren (Papier 1 & 3):** Da Papier 1 (private Vaterschafts- und Geschäftsbriefe) und Papier 3 (das testamentarische Geheimdokument) exklusive, unknackbare Unikate im familiären Besitz waren, hatten ausschließlich echte, historisch beteiligte Gläubiger oder überlebende Mitglieder der alten Gesellschaft die Möglichkeit, die Papiere in einen echten Kontext zu setzen.
-* **Das Stummen-Signal als Freigabe:** Das völlige Ausbleiben einer informierten Reaktion durch qualifizierte Anspruchsteller im Jahr 1885 bewies, dass keine echten Gläubiger oder Erben mehr existierten, die den Code hätten lösen oder Ansprüche geltend machen können. Das Echo der breiten Masse war lediglich unkontrolliertes Rauschen; das Schweigen der Wissenden war der Beweis für die klinische Reinheit des Raumes.
+### PFAD A: Die klassische Spionage- & Code-Architektur
+
+* **Carl Webb als physischer Decoy (Ersatz-Körper):**  
+  Da Alf Boxall Verbindungen zum Militär- und Geheimdienstapparat aufwies, lässt sich annehmen, dass Webb aufgrund seiner äußeren Ähnlichkeit als Ersatz-Körper genutzt wurde – sei es gezielt oder opportunistisch –, um dem gegnerischen Apparat das Ableben der Zielperson zu signalisieren.
+* **Das Fahrzeug als totes Postfach (Dead-Drop):**  
+  Ein unverschlossenes Fahrzeug mit heruntergelassenem Fenster im Sommer entspricht der Mechanik eines *toten Postfachs*. Möglicherweise wurde jedoch die unberechenbare zivile Realität unterschätzt.
+* **Der zivile Störfaktor:**  
+  Ein Passant oder Obdachloser nutzte das offene Fahrzeug vermutlich als Unterschlupf, entdeckte das Buch und nahm es an sich. Konfrontiert mit den polizeilichen Ermittlungen zum Mordfall, könnte dies die Flucht und das Fehlen eines Namen des Finders in den Akten erklären.
+* **Der thematische Filter (Der Todes-Pool):**  
+  Das *Rubaiyat* diente vermutlich als mathematische Schablone über einen begrenzten Selektions-Pool von Todes- und Staub-Strophen (Motive: *Dust, Earth, Night, End*).
+
+---
+
+### PFAD B: Die Rache-, Trauma- & Alibi-Rochade
+
+#### Forensisch-deduktive Ablauf-Modellierung (Synthese aus Sachbeweisen):
+
+* **Phase 1: Vorbereitung & Physische Infiltration (Montag, 29. Nov)**  
+  * *Befund-Abgleich:* Das Opfer wies keine Spuren eines heftigen Kampfes auf, was auf eine vorbereitende Schwächung hindeutet.  
+  * *Rekonstruktion:* Nach Erstkontakt und möglicher Sedierung ist der Magen am Folgetag geleert. Die Toxin-Beschaffung ließe sich theoretisch in reguläre Arbeitsabläufe (z. B. im medizinischen Umfeld) einbetten.
+* **Phase 2: Logistische Bereinigung & Anonymisierung (Dienstagvormittag, 30. Nov)**  
+  * *Befund-Abgleich:* Der Koffer wurde am 30. Nov zwischen 11:00 und 12:00 Uhr am Hauptbahnhof Adelaide deponiert. Das Opfer trug Kleidung ohne Herstellerlabels.  
+  * *Rekonstruktion:* Dem geschwächten Opfer wurde möglicherweise Ersatzkleidung bereitgestellt (Labels entfernt; *Tamam-Shud*-Papierschnipsel eingenäht). Der Reisekoffer wurde als nicht mehr benötigtes Asset am Bahnhof deponiert.
+* **Phase 3: Toxin-Verabreichung & Entsorgung (Dienstagnachmittag / -abend)**  
+  * *Befund-Abgleich:* Autopsie zeigt eine frische Pastete im Magen, minimale/keine Blutalkoholwerte und schwere Organ-Stauungen (Herzglykosid-Indikatoren). Keine Abwehrspuren.  
+  * *Rekonstruktion:* Unter unverdächtigen Umständen (z. B. einer gemeinsamen Mahlzeit) konnte das Toxin verabreicht werden. Die Verbringung an den Strand diente der unauffälligen Entsorgung.
+* **Phase 4: Thermische Wirkung & Exitus (Nacht zum 01. Dez)**  
+  * *Befund-Abgleich:* Zeugen sichteten den Mann abends in veränderten Positionen; Fund am Morgen in friedlicher Haltung mit halbgerauchter Zigarette.  
+  * *Rekonstruktion:* Der abendliche Temperaturabfall an der Küste Südaustraliens verstärkte in Kombination mit dem Herzgift die Lähmung und beschleunigte den Herzstillstand durch schmerzlose Hypothermie.
+
+* **Die Binnenschrift-Chiffre `JEstin` (Als interpretierbare Alibi-Geste):**  
+  Auf Boxalls Exemplar stand die prägnante Schreibweise **`JEstin`**.  
+  
+  *Hypothetische Genese:* Als Boxall erwähnte, dass das gemeinsame Arbeits-Buch abhandengekommen war, besorgte Jestyn ein Ersatz-Exemplar.  
+  
+  *Eine semantische Deutungsoption:*  
+  $$\text{JEstin} \longrightarrow \text{J.E. st-in} \longrightarrow \text{Justice in} \longrightarrow \text{\textbf{J.E. got her justice}}$$  
+  In diesem spekulativen Deutungsrahmen ließe sich das Wortspiel als interne Codierung betrachten.
+* **Das Alibi:**  
+  Als die Polizei im August 1949 bei Boxall vorstellig wurde, präsentierte er dieses unversehrte Ersatz-Exemplar. Da seine Arbeitsplatz-Stempelkarten für Ende November 1948 nicht standardmäßig abgeglichen wurden, galt er formal als entlastet.
+
+---
+
+## 4. Die rohe Code-Matrix & Strukturelle Anomalien
+1. `MRGOABABD` *(Initiale M evtl. als W lesbar)*
+2. `MLIAOI` *(Sauber und geradlinig durchgestrichen. Ein klarer, gerader Durchstreichstrich spricht für eine bewusste Markierung als „Erledigt / Abgehakt“ statt für einen Schreibfehler.)*
+3. `MTBIMPANETP` *(Finaler Buchstabe P evtl. als D lesbar)*
+4. `MLIABOAIAQC` *(Inklusive des Q-Rasters für bereinigte Konflikte / Quarrel)*
+5. `ITTMTSAMSTGAB`
+
+---
+
+## 5. Methodischer Ansatz: Das Positions- und Anker-Verfahren (Zu Pfad A)
+Als Alternative zu komplexen Text-Shift-Modellen wird hier eine physische Schreib-Koordinaten-Logik unter Zeitdruck untersucht:
+* **Das Q-Anker-Prinzip:** Da der Buchstabe **Q** im Text der 1. Ausgabe extrem selten ist (exakt 2 Vorkommen), dient er als fixer, mathematischer Start- und Prüfpunkt.
+* **Das Koordinaten-System:** Der Schreiber nutzte feste, wiederkehrende Muster innerhalb des Todes-Pools, um die Buchstaben direkt abzugreifen.
+* **Prüfung in Excel:** Durch die systematische Übertragung des Textes in eine Excel-Struktur werden diese festen Vers- und Wortpositionen iteriert.
+
+---
+
+## 6. Nächste Arbeitsschritte (Work in Progress)
+
+| Phase | Aktion | Status |
+| :--- | :--- | :--- |
+| **01** | Vollständigen Text der FitzGerald-Übersetzung Vers für Vers / Wort für Wort in Excel übertragen | In Bearbeitung (Work in Progress) |
+| **02** | Die 2 Q-Stellen in der Ausgabe isolieren und als Fixpunkt-Anker definieren | Vorbereitet |
+| **03** | Positions-Matrix (feste Wort-/Vers-Zählungen im Todes-Pool) auf die Codezeilen anwenden | In Prüfung |
+| **04** | Parallel-Dokumentation von Pfad A (Code-Anker) und Pfad B (Rache/JEstin-Rochade) fortführen | Aktiviert |
+
+---
+
+## 7. Fazit
+Zwei operative Pfade, ein methodischer Untersuchungsrahmen: Ob verdeckte Geheimdienst-Schablone unter Zeitdruck oder das Modell eines präventiven Schutzaktes mit nachträglicher Alibi-Geste – die Analyse zeigt, wie sich disparate Puzzleteile durch stringente Systemlogik und Verhaltensmuster zu konsistenten Hypothesen verknüpfen lassen.
