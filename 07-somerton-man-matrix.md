@@ -7,53 +7,53 @@
 ## 1. Die kognitive, physische & psychologische Stress-Prämisse
 
 * **Der biologische Vektor unter physischer Hast:**  
-  Unter extremem Handlungs- und Zeitdruck – getrieben von knappen Reiseverbindungen, einer unauffälligen Kurzzeit-Abwesenheit vom Arbeitsplatz (Krankmeldung/Sonderurlaub Ende November 1948) und dem Risiko der Entdeckung – führt niemand im Kopf komplexe mathematische Verschiebungen (wie Shift-Minus-4) aus. Wer unter Adrenalin und mit der ungeübten (linken) Hand unleserliche Blockbuchstaben auf eine Buchrückseite kritzelt, nutzt eine **rein mechanische, fehlerfreie Direkt-Schablone**. Das System muss augenblicklich und ohne Denkpausen funktionieren.
+  Unter extremem Handlungs- und Zeitdruck – getrieben von knappen Reiseverbindungen, einer unauffälligen Kurzzeit-Abwesenheit vom Arbeitsplatz (Krankmeldung/Sonderurlaub Ende November 1948) und dem Risiko der Entdeckung – ist von einem Akteur kaum die Ausführung komplexer, mentaler Rechenoperationen (wie Shift-Minus-4) zu erwarten. Wer unter Adrenalin und mit der ungeübten (linken) Hand unleserliche Blockbuchstaben auf eine Buchrückseite kritzelt, nutzt in der Regel eine **rein mechanische, fehlerfreie Direkt-Schablone**. Das System muss unter Stress augenblicklich und ohne Denkpausen funktionieren.
 * **Der operative Telegramm-Stil:**  
-  Akteure unter akutem Flucht- und Zeitdruck verfassen keine Prosa. Die Code-Zeilen sind fragmentarische, stakkatoartige Positions- und Statusmeldungen, die in Sekundenschnelle während eines Notruf-Telefonats niedergeschrieben werden mussten, bevor das Transportmittel erreicht oder der Schauplatz gewechselt wurde.
+  Akteure unter akutem Flucht- und Zeitdruck verfassen selten Prosa. Die Code-Zeilen lassen sich als fragmentarische, stakkatoartige Positions- und Statusmeldungen lesen, die in Sekundenschnelle während eines Notruf-Telefonats niedergeschrieben worden sein könnten, bevor das Transportmittel erreicht oder der Schauplatz gewechselt wurde.
 
 ---
 
-## 2. Die Motiv-Herleitung: Warum „Vergewaltigung & Trauma“ als Kernvektor?
+## 2. Die Motiv-Herleitung: Der Trauma- und Schutzvektor als Arbeitshypothese
 
-Die Hypothese eines Rache- und Präventiv-Schutzaktes im Umfeld von Jessica Harkness („Jestyn“) basiert auf einer unbestechlichen Synopse aus Genetik, Verhaltensbiologie, Zeitlinien und Aktenlage:
+Die Hypothese eines Rache- und Präventiv-Schutzaktes im Umfeld von Jessica Harkness („Jestyn“) stützt sich auf eine synoptische Betrachtung von Genetik, Verhaltensbiologie, Zeitlinien und Aktenlage:
 
-1. **Das unerschütterliche Vaterschafts-Schweigen:**  
-   Jestyn verweigerte zeit ihres Lebens (und bis zu ihrem Tod 2007) jede Aussage dazu, wer der leibliche Vater ihres Sohnes Robin (* 01.11.1947) war. In einer von gesellschaftlicher Konvention geprägten Nachkriegsgesellschaft ist ein solches eisernes, lebenslanges Mauern das klassische Schutzverhalten nach einem gravierenden sexuellen Trauma (Zeugung ca. Januar/Februar 1947).
-2. **Die extreme biologische Merkmals-Konvergenz (Die Falle):**  
-   Sowohl der Somerton-Mann (Carl Webb) als auch Jestyns Sohn Robin wiesen zwei extrem seltene anatomische Besonderheiten auf: 
+1. **Das konsequente Vaterschafts-Schweigen:**  
+   Jestyn verweigerte zeit ihres Lebens (und bis zu ihrem Tod 2007) jede Aussage zum leiblichen Vater ihres Sohnes Robin (* 01.11.1947). In der gesellschaftlichen Realität der Nachkriegszeit kann ein solches eisernes Schweigen als klassisches Schutzverhalten nach einem gravierenden Trauma (Zeugung ca. Januar/Februar 1947) interpretiert werden.
+2. **Die auffällige Merkmals-Konvergenz (Die visuelle Prämisse):**  
+   Sowohl der Somerton-Mann (Carl Webb) als auch Jestyns Sohn Robin wiesen zwei extrem seltene anatomische Besonderheiten auf:  
    * Eine spezifische **Ohranatomie** (Cymba conchae größer als Cava conchae – Vorkommen bei ca. 1–2 % der Bevölkerung).
    * Eine seltene **Hypodontie/Agenesie** (angeborenes Fehlen der zwei oberen Schneidezähne – Vorkommen bei unter 2 % der Bevölkerung).
    
-   *Der Fehlschluss:* Ende November 1948 war der kleine Robin 13 Monate alt; seine Gesichtsmerkmale traten immer deutlicher hervor. Als Jestyn den fremden Carl Webb in Glenelg um die Häuser schleichen sah, erblickte sie in seinen seltenen Gesichtsmerkmalen das spiegelbildliche Phantombild des Vergewaltigers.
-3. **Akute Gefahrenabwehr statt bloßer Rache:**  
-   Webb war auf der verzweifelten Suche nach seiner entlaufenen Frau Dorothy (die ihn im April 1947 verlassen hatte). Für Jestyn sah dieses Ausspähen von Häusern aus wie das Lauern eines Serientäters auf ein neues Opfer. Der Notruf an Boxall erfolgte in akuter Panik (*„Er ist wieder hier und schlägt erneut zu“*).
+   *Der psychologische Ansatz:* Ende November 1948 war Robin 13 Monate alt; seine Gesichtsmerkmale traten deutlicher hervor. Als Jestyn den fremden Carl Webb in Glenelg bemerkte, lag für sie nahe, in seinen seltenen Merkmalen das physische Echo des traumatischen Erlebnisses zu sehen. Ein Notruf an Boxall könnte in dieser akuten Anspannung erfolgt sein.
+3. **Akute Gefahrenabwehr:**  
+   Webb befand sich auf der Suche nach seiner getrennten Frau Dorothy (die ihn im April 1947 verlassen hatte). Für Jestyn konnte dieses Ausspähen wie das Bedrohungsszenario eines stalkenden Täters wirken.
 4. **Die Zäsur von 2022 (Die DNA-Beweisführung):**  
-   Erst die genetische Untersuchung von Prof. Derek Abbott im Jahr 2022 bewies zweifelsfrei: **Carl Webb war NICHT der Vater von Robin.** Da Jestyn und Boxall (gestorben 1995) lange vor 2022 starben, erlebten sie diese Aufklärung nie. Sie agierten 1948 in dem absoluten Glauben, ein Monster und eine reale Bedrohung zu neutralisieren.
+   Erst die genetische Untersuchung von Prof. Derek Abbott im Jahr 2022 erbrachte den Nachweis: **Carl Webb war NICHT der Vater von Robin.** Da Jestyn und Boxall (gestorben 1995) zu diesem Zeitpunkt bereits verstorben waren, agierten sie 1948 in dem subjektiven Glauben, eine reale Bedrohung zu neutralisieren.
 
 ---
 
 ## 3. Zwei gleichwertige operative Pfade
 
-Das Gesamtmuster lässt sich über zwei konsistente Modelle erklären, die je nach Schwerpunkt der Spurenlage agieren:
+Das Gesamtmuster lässt sich über zwei konsistente Modelle abbilden, die je nach Schwerpunkt der Spurenlage operationalisiert werden können:
 
 * **SOMERTON-MANN-MATRIX**
   * **PFAD A: Die klassische Spionage- & Code-Matrix**  
     *(Decoy, Dead-Drop, Mechanischer Q-Anker)*
   * **PFAD B: Die Rache-, Trauma- & Alibi-Rochade**  
-    *(Selbstjustiz, Verwechslungsakt, "JEstin"-Wortspiel)*
+    *(Präventiv-Akt, Verwechslungsakt, "JEstin"-Wortspiel)*
 
 ---
 
 ### PFAD A: Die klassische Spionage- & Code-Architektur
 
 * **Carl Webb als physischer Decoy (Ersatz-Körper):**  
-  Da Alf Boxall nachweislich Verbindungen zum Militär- und Geheimdienstapparat aufwies, besteht die Hypothese, dass Webb aufgrund seiner äußerlichen Verwechselbarkeit als Ersatz-Körper genutzt wurde – sei es gezielt oder opportunistisch –, um dem gegnerischen Apparat das Ableben der eigentlichen Zielperson (Boxall) zu signalisieren.
+  Da Alf Boxall Verbindungen zum Militär- und Geheimdienstapparat aufwies, lässt sich annehmen, dass Webb aufgrund seiner äußeren Ähnlichkeit als Ersatz-Körper genutzt wurde – sei es gezielt oder opportunistisch –, um dem gegnerischen Apparat das Ableben der Zielperson zu signalisieren.
 * **Das Fahrzeug als totes Postfach (Dead-Drop):**  
-  Das unverschlossene Fahrzeug mit heruntergelassenem Fenster im Sommer stellt ein klassisches *totes Postfach* dar. Die Einsatzplanung berücksichtigte jedoch nicht die unberechenbare zivile Realität.
-* **Der zivile Störfaktor (Der anonyme Bürger):**  
-  Ein Obdachloser nutzte das offene Fahrzeug vermutlich als Quartier, stieß auf das Buch und nahm es an sich. Auf der Wache mit einem Mordfall konfrontiert, ergriff er in Panik die Flucht. Dies erklärt schlüssig, warum in den Akten kein Name des Finders existiert.
+  Ein unverschlossenes Fahrzeug mit heruntergelassenem Fenster im Sommer entspricht der Mechanik eines *toten Postfachs*. Möglicherweise wurde jedoch die unberechenbare zivile Realität unterschätzt.
+* **Der zivile Störfaktor:**  
+  Ein Passant oder Obdachloser nutzte das offene Fahrzeug vermutlich als Unterschlupf, entdeckte das Buch und nahm es an sich. Konfrontiert mit den polizeilichen Ermittlungen zum Mordfall, könnte dies die Flucht und das Fehlen eines Namen des Finders in den Akten erklären.
 * **Der thematische Filter (Der Todes-Pool):**  
-  Das *Rubaiyat* diente als mathematische Schablone über den Selektions-Pool der Todes- und Staub-Strophen (Motive: *Dust, Earth, Night, End*).
+  Das *Rubaiyat* diente vermutlich als mathematische Schablone über einen begrenzten Selektions-Pool von Todes- und Staub-Strophen (Motive: *Dust, Earth, Night, End*).
 
 ---
 
@@ -62,29 +62,28 @@ Das Gesamtmuster lässt sich über zwei konsistente Modelle erklären, die je na
 #### Forensisch-deduktive Ablauf-Modellierung (Synthese aus Sachbeweisen):
 
 * **Phase 1: Vorbereitung & Physische Infiltration (Montag, 29. Nov)**  
-  * *Befund-Abgleich:* Das Opfer erlitt keine physischen Kampfspuren, was auf eine vorherige physische Schwächung/Handlungsunfähigkeit hinweist. 
-  * *Rekonstruktion:* Nach Erstkontakt und Betäubung/Exzess durch den Akteur ist der Magen des Opfers am Folgetag geleert. Die Toxin-Beschaffung erfolgt zeitgleich über die Kontrollperson (Jestyn) während ihrer regulären Krankenhausschicht.
+  * *Befund-Abgleich:* Das Opfer wies keine Spuren eines heftigen Kampfes auf, was auf eine vorbereitende Schwächung hindeutet.  
+  * *Rekonstruktion:* Nach Erstkontakt und möglicher Sedierung ist der Magen am Folgetag geleert. Die Toxin-Beschaffung ließe sich theoretisch in reguläre Arbeitsabläufe (z. B. im medizinischen Umfeld) einbetten.
 * **Phase 2: Logistische Bereinigung & Anonymisierung (Dienstagvormittag, 30. Nov)**  
-  * *Befund-Abgleich:* Der Koffer wird nachweislich am 30. Nov zwischen 11:00 und 12:00 Uhr am Hauptbahnhof Adelaide deponiert. Das Opfer trägt Kleidung abweichender Statur ohne Herstellerlabels.
-  * *Rekonstruktion:* Der Akteur stellt dem geschwächten Opfer Ersatzkleidung aus dem eigenen Bestand zur Verfügung (Labels zuvor herausgetrennt; *Tamam-Shud*-Papierschnipsel eingenäht). Der verbliebene Reisekoffer wird als abgehaktes Depot-Asset am Bahnhof deponiert.
+  * *Befund-Abgleich:* Der Koffer wurde am 30. Nov zwischen 11:00 und 12:00 Uhr am Hauptbahnhof Adelaide deponiert. Das Opfer trug Kleidung ohne Herstellerlabels.  
+  * *Rekonstruktion:* Dem geschwächten Opfer wurde möglicherweise Ersatzkleidung bereitgestellt (Labels entfernt; *Tamam-Shud*-Papierschnipsel eingenäht). Der Reisekoffer wurde als nicht mehr benötigtes Asset am Bahnhof deponiert.
 * **Phase 3: Toxin-Verabreichung & Entsorgung (Dienstagnachmittag / -abend)**  
-  * *Befund-Abgleich:* Autopsie zeigt eine frische Pastete im Magen, minimale/keine Blutalkoholwerte und schwere Organ-Stauungen (Herzglykosid-Indikatoren). Keine Würgen- oder Abwehrspuren.
-  * *Rekonstruktion:* Unter dem Vorwand einer Mahlzeit/Katerhilfe wird das Toxin in einem Erfrischungsgetränk verabreicht. Zur Vermeidung von Aufmerksamkeit wird das Opfer an den Strand geführt.
+  * *Befund-Abgleich:* Autopsie zeigt eine frische Pastete im Magen, minimale/keine Blutalkoholwerte und schwere Organ-Stauungen (Herzglykosid-Indikatoren). Keine Abwehrspuren.  
+  * *Rekonstruktion:* Unter unverdächtigen Umständen (z. B. einer gemeinsamen Mahlzeit) konnte das Toxin verabreicht werden. Die Verbringung an den Strand diente der unauffälligen Entsorgung.
 * **Phase 4: Thermische Wirkung & Exitus (Nacht zum 01. Dez)**  
-  * *Befund-Abgleich:* Zeugen sahen den Mann abends noch in leicht veränderten Positionen; Fund der Leiche bei Sonnenaufgang in friedlicher Haltung mit halbgerauchter Zigarette.
-  * *Rekonstruktion:* Der dramatische Temperaturabfall an der Küste Südaustraliens (von ca. 25 °C auf unter 15 °C) verstärkt in Kombination mit dem Herzgift die Lähmung und beschleunigt den Herzstillstand durch schmerzlose Hypothermie. Der Akteur entweicht noch in der Nacht zurück nach New South Wales.
+  * *Befund-Abgleich:* Zeugen sichteten den Mann abends in veränderten Positionen; Fund am Morgen in friedlicher Haltung mit halbgerauchter Zigarette.  
+  * *Rekonstruktion:* Der abendliche Temperaturabfall an der Küste Südaustraliens verstärkte in Kombination mit dem Herzgift die Lähmung und beschleunigte den Herzstillstand durch schmerzlose Hypothermie.
 
-* **Die Binnenschrift-Chiffre `JEstin` (Das Wortspiel als Dankes-Geste):**  
-  Auf Boxalls Exemplar stand nicht der schlichte Vorname „Jestyn“, sondern die prägnante Schreibweise **`JEstin`**. 
+* **Die Binnenschrift-Chiffre `JEstin` (Als interpretierbare Alibi-Geste):**  
+  Auf Boxalls Exemplar stand die prägnante Schreibweise **`JEstin`**.  
   
-  *Die Genese des Buch-Transfers:* Als Boxall nach der Tat beiläufig erwähnte, dass das gemeinsame Arbeits-Buch während der Aktion verloren ging, besorgte Jestyn kurzfristig aus ihren Beständen ein Ersatz-Exemplar für sein Alibi. Sie schickte es ihm als Dank mit den Worten: *„Kein Problem, ich hatte es damals auch für mich geholt – als Dank schicke ich es dir.“*
+  *Hypothetische Genese:* Als Boxall erwähnte, dass das gemeinsame Arbeits-Buch abhandengekommen war, besorgte Jestyn ein Ersatz-Exemplar.  
   
-  *Die phonetisch-semiotische Dekodierung:*
-  $$\text{JEstin} \longrightarrow \text{J.E. st-in} \longrightarrow \text{Justice in} \longrightarrow \text{\textbf{J.E. got her justice}}$$
-  
-  Für eine Frau, die meinte, sich in der Sprache des Netzwerks bedanken zu müssen, war dieses Binnenschrift-Wortspiel die verschlüsselte Botschaft: **„Jessica Elena hat ihre Gerechtigkeit bekommen.“**
-* **Das unumstößliche Alibi:**  
-  Als die Polizei im August 1949 bei Boxall anklopfte, legte er seelenruhig dieses unversehrte Ersatz-Exemplar mit der *JEstin*-Signatur vor. Da die Polizei seine Arbeitsplatz-Stempelkarten für Ende November 1948 nie anforderte, galt er als vollständig entlastet.
+  *Eine semantische Deutungsoption:*  
+  $$\text{JEstin} \longrightarrow \text{J.E. st-in} \longrightarrow \text{Justice in} \longrightarrow \text{\textbf{J.E. got her justice}}$$  
+  In diesem spekulativen Deutungsrahmen ließe sich das Wortspiel als interne Codierung betrachten.
+* **Das Alibi:**  
+  Als die Polizei im August 1949 bei Boxall vorstellig wurde, präsentierte er dieses unversehrte Ersatz-Exemplar. Da seine Arbeitsplatz-Stempelkarten für Ende November 1948 nicht standardmäßig abgeglichen wurden, galt er formal als entlastet.
 
 ---
 
@@ -98,7 +97,7 @@ Das Gesamtmuster lässt sich über zwei konsistente Modelle erklären, die je na
 ---
 
 ## 5. Methodischer Ansatz: Das Positions- und Anker-Verfahren (Zu Pfad A)
-Statt künstlicher Buchstabentransformationen basiert der Code auf einer physischen Schreib-Koordinaten-Logik unter Zeitdruck:
+Als Alternative zu komplexen Text-Shift-Modellen wird hier eine physische Schreib-Koordinaten-Logik unter Zeitdruck untersucht:
 * **Das Q-Anker-Prinzip:** Da der Buchstabe **Q** im Text der 1. Ausgabe extrem selten ist (exakt 2 Vorkommen), dient er als fixer, mathematischer Start- und Prüfpunkt.
 * **Das Koordinaten-System:** Der Schreiber nutzte feste, wiederkehrende Muster innerhalb des Todes-Pools, um die Buchstaben direkt abzugreifen.
 * **Prüfung in Excel:** Durch die systematische Übertragung des Textes in eine Excel-Struktur werden diese festen Vers- und Wortpositionen iteriert.
@@ -117,4 +116,4 @@ Statt künstlicher Buchstabentransformationen basiert der Code auf einer physisc
 ---
 
 ## 7. Fazit
-Zwei operative Pfade, ein unerschütterliches Koordinatensystem: Ob verdeckte Geheimdienst-Schablone unter Zeitdruck oder eiskalt geplanter Selbstjustiz-Akt mit nachträglicher Alibi-Geste – das Somerton-Mysterium verliert durch die Synthese von DNA-Daten, Sprachchiffren und operativer Logik seinen rätselhaften Schein.
+Zwei operative Pfade, ein methodischer Untersuchungsrahmen: Ob verdeckte Geheimdienst-Schablone unter Zeitdruck oder das Modell eines präventiven Schutzaktes mit nachträglicher Alibi-Geste – die Analyse zeigt, wie sich disparate Puzzleteile durch stringente Systemlogik und Verhaltensmuster zu konsistenten Hypothesen verknüpfen lassen.
