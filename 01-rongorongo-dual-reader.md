@@ -46,6 +46,7 @@ Diese Analyse dekonstruiert das Script über die **Physik des Mediums, die physi
 
 Die inverse Zeilenstruktur begünstigt nicht nur den synchronen Vortrag, sondern bietet auch einen erheblichen Effizienzvorteil bei der **Herstellung (Gravur)** des Artefakts:
 
+```
 [Schreiber B]  ---> ritzt Zeile B1 (aus eigener Sicht: unten links / aus Sicht A: oben rechts)
                    ┌──────────────────────────────────────┐
                    │  ◄── ◄── ◄── Zeile B1                │
@@ -54,6 +55,7 @@ Die inverse Zeilenstruktur begünstigt nicht nur den synchronen Vortrag, sondern
                    │  Zeile A1 ──► ──► ──►                │
                    └──────────────────────────────────────┘
 [Schreiber A]  ---> ritzt Zeile A1 (aus eigener Sicht: unten links)
+```
 
 * **Parallele Arbeitsaufteilung ohne Kollision:** 
   * Das Einritzen in Hartholz mit Haifischzähnen oder Obsidianklingen war extrem kraft- und zeitaufwendig.
