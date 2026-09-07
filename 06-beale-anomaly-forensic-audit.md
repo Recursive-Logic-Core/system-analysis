@@ -40,9 +40,11 @@ Der Zusammenbruch des US-Bankensystems im Jahr 1819 führte zu massiven Liquidit
 
 Auffällige Transkriptions- und Zähldivergenzen in Papier 2 deuten darauf hin, dass die Dokumente nicht als akademische Krypto-Konstrukte entstanden, sondern im Kontext einer **privaten, sequenziellen Schreib- und Alphabetisierungsschulung** zwischen Vater und Sohn:
 
-[Stufe 1] Private Handschriften / Korrespondenz ---> PAPIER 1 (Fundort)   [Systemisch unauflösbar / Unikat]
-[Stufe 2] Declaration of Independence           ---> PAPIER 2 (Depotwert) [Dechiffriert 1885 / Druckwerk]
-[Stufe 3] Privates Testament / Familiennachlass ---> PAPIER 3 (Erblinie)  [Systemisch unauflösbar / Unikat]
+| Didaktische Stufe | Quellmedium / Textbasis | Zieldokument (Chiffre) | Systemischer Status |
+| :--- | :--- | :--- | :--- |
+| **Stufe 1** | Private Handschriften / Korrespondenz | **Papier 1** *(Fundort)* | Systemisch unauflösbar *(Unikat)* |
+| **Stufe 2** | *Declaration of Independence* (1776) | **Papier 2** *(Depotwert)* | Dechiffriert 1885 *(Öffentliches Druckwerk)* |
+| **Stufe 3** | Privates Testament / Familiennachlass | **Papier 3** *(Erblinie)* | Systemisch unauflösbar *(Unikat)* |
 
 ### A. Papier 1 (Lokalisation) – Handschriftliches Lehrmaterial
 * **Textbasis:** Private Korrespondenz und Instruktionsbriefe von Thomas Beale Sr.
