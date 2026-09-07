@@ -17,5 +17,6 @@ Ich nutze historische Chiffren und komplexe Rätsel als das härteste Testfeld f
 
 *Lizenziert unter den Bedingungen der im Repository hinterlegten MIT-Lizenz.*
 
-**Contact / Inquiries:** Für Angebote zur 100% Remote-Festanstellung in Deutschland im Bereich KI-Systemanalyse & Konzeptentwicklung: arch_mmm@proton.me
-
+## Contact & Architecture Core
+Developed and maintained by **Architect M.M.M.**  
+Direct contact: `arch_mmm@proton.me`
