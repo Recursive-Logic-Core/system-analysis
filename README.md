@@ -6,14 +6,14 @@ Methodische Dekonstruktion geschlossener Systeme, historischer Chiffren und undo
 
 Dieses Repository dokumentiert forensische Analysen und logische Struktur-Rekonstruktionen komplexer, undokumentierter Systeme. Ziel ist es, Informationsstrukturen nicht als isolierte mathematische Rätsel zu behandeln, sondern über ihren realen operativen Kontext zu erschließen.
 
-Die Arbeiten basieren auf der zielgerichteten Orchestrierung fortschrittlicher Sprachmodelle zur Freilegung nicht-linearer Kausalitäten.
+Die Analysen basieren auf menschlicher Hypothesenbildung aus First Principles (Materialgrenzen, Biomechanik, Schnittstellen-Ergonomie). Moderne Sprachmodelle fungieren hierbei nicht als Erkenntnisquelle, sondern rein als rechnerische Inferenz- und Parsing-Werkzeuge zur Überprüfung und Modellierung dieser strukturellen Annahmen.
 
 ## Methodischer Ansatz
 
-* **Kontextuelle Rekonstruktion:** Analyse des operativen und sozio-historischen Handlungsrahmens unter Stress-, Zensur- und Zeitbedingungen.
-* **Physikalische Randbedingungen:** Berücksichtigung von Materialeigenschaften, Hardware-Grenzen und menschlicher Ergonomie.
-* **Kognitions- und Fehleranalyse:** Identifikation von Übertragungsfehlern, Schablonenverfahren und asymmetrischen Erwartungshaltungen.
-* **Signal-zu-Rauschen-Isolation:** Trennung deterministischer Nutzdaten von konstruiertem oder stochastischem Rauschen.
+* **Physikalische Randbedingungen & Ergonomie:** Berücksichtigung von Materialeigenschaften, Handhabungsrisiken, kinematischer Lastverteilung und menschlicher Belastungsgrenzen.
+* **Kontextuelle & Funktionale Rekonstruktion:** Analyse des operativen Handlungsrahmens unter Stress-, Zensur- oder Ritualbedingungen (z. B. asymmetrische Rollenverteilung, Mehr-Träger-Pipelines).
+* **Signal-zu-Rauschen-Isolation:** Trennung deterministischer Nutzdaten von stochastischem Rauschen oder dekorativen Artefakten.
+* **Kognitions- und Fehleranalyse:** Identifikation von Übertragungsfehlern, Schablonenverfahren und systematischen Schnittstellen-Engpässen.
 
 ---
 
