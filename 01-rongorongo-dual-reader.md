@@ -12,7 +12,8 @@ Diese Analyse dekonstruiert das Script über die **Physik des Mediums, die physi
 
 ### A. Das physische Fundament & Die Last-Mechanik
 * **Der physische Alltag:** Das Leben auf Rapa Nui war von harter körperlicher Arbeit geprägt (Feldbau, Kanubau, Transport schwerer Lasten). Arme und Schultern waren im Alltag stark beansprucht.
-* **Das Material-Risiko (Knappe Ressource Holz):** Holz war auf der stark abgeholzten Insel ein extrem kostbares Gut. Eine schwere Holztafel (bis zu 2,6 kg Masse, über 1 m Länge) durfte unter keinen Umständen beschädigt werden oder auf den Boden schlagen. 
+* **Das Material-Risiko (Knappe Ressource Holz):** Holz war auf der stark abgeholzten Insel ein extrem kostbares Gut. Eine schwere Holztafel (bis zu 2,6 kg Masse, über 1 m Länge) durfte unter keinen Umständen beschädigt werden oder auf den Boden schlagen.
+* **Ergonomische Skalierung (Plausibilitätsannahme):** Aus ergonomischer Sicht beschränkt sich das Problem ermüdender Muskelarbeit nicht zwingend auf Monumentaltafeln von über 2 kg. Es liegt nahe, dass auch bei kleineren oder leichteren Medien eine feste Auflagefläche zwischen zwei Personen das Risiko von Haltefehlern, Abrutschen und Materialabrieb bei langwierigen Zeremonien deutlich minimiert haben dürfte.
 
 ### B. Das Ergonomie-Paradoxon (Die Grenzen des Einzel-Betriebs)
 * Ein körperlich beanspruchter Mensch mit erschöpften Armen kann eine schwere Holztafel kaum über längere Zeit frei halten oder sie stundenlang im Kreis drehen. 
@@ -42,7 +43,27 @@ Diese Analyse dekonstruiert das Script über die **Physik des Mediums, die physi
 
 ---
 
-## 4. Die synchrone Entstehung: Das Dual-Writer-Modell
+## 4. Methodische Überlegungen zu variablen Nutzungsmustern
+
+Ein logisches Interaktionsmodell muss nicht zwingend eine starre mechanische Symmetrie voraussetzen. Unter Einbeziehung historisch plausibler Abläufe lassen sich scheinbare Widersprüche als funktionale Varianten deuten:
+
+### A. Liturgische Asymmetrie & Rollenverteilung (Hypothese zu ungeraden Zeilenzahlen)
+* Artefakte mit ungerader Zeilenzahl widerlegen ein Wechselmodell nicht zwangsläufig. In vielen liturgischen Kontexten liegt die Annahme nahe, dass Rollen asymmetrisch verteilt waren: Ein Hauptsprecher könnte das Ritual eröffnet und mit einer ungeraden Schlusszeile (z. B. Segensformel oder rituelle Bestätigung) bewusst abgeschlossen haben.
+* Ein funktionaler Dialog erfordert aus logischer Sicht keine mathematische 50/50-Parität der Zeilen.
+
+### B. Gestaffelte Mehr-Tafel-Nutzung (Hypothese zum kontinuierlichen Vortrag)
+* Bei längeren Rezitationen ist anzunehmen, dass mehrere Träger parallel oder nacheinander zum Einsatz kamen.
+* **Laufende Übergabe:** Lagen Tafeln beispielsweise übereinander, ergibt sich eine plausible Arbeitsteilung: Während Person B die letzte Zeile des oberen Trägers vortrug, konnte Person A bereits die nächste Tafel bereitlegen. Ein Wechsel von Tafel zu Tafel wäre damit ohne Verzögerung im Vortrag denkbar.
+* Endete ein Träger bei Sprecher A, konnte die nächste Tafel folgerichtig direkt von Sprecher B begonnen werden.
+
+### C. Morphologische Varianten (Überlegungen zu Rundkörpern & Stäben)
+* **Monologische Textblöcke:** Eine 180°-Anordnung schließt nicht aus, dass längere Passagen (z. B. Ahnenreihen) zunächst von nur einer Person vorgetragen wurden, bevor an rituellen Übergangspunkten die Übergabe an das Gegenüber erfolgte.
+* **Möglichkeit paarweiser Artefakte:** Es lässt sich nicht ausschließen, dass zeremonielle Handlungen mit zwei parallelen Stäben oder Tafeln als aufeinander bezogene Gegenstücke vollzogen wurden.
+* **Gemeinsam gehaltene Achse:** Bei rituellen Handlungen oder Eiden liegt die Vermutung nahe, dass ein Stab als physische Achse von beiden Seiten gehalten wurde – die gegenläufigen Zeilen hätten es beiden Akteuren erlaubt, ihren jeweiligen Abschnitt aus dem eigenen Blickwinkel zu erfassen, ohne das Objekt drehen zu müssen.
+
+---
+
+## 5. Die synchrone Entstehung: Das Dual-Writer-Modell
 
 Die inverse Zeilenstruktur begünstigt nicht nur den synchronen Vortrag, sondern bietet auch einen erheblichen Effizienzvorteil bei der **Herstellung (Gravur)** des Artefakts:
 
@@ -66,7 +87,7 @@ Die inverse Zeilenstruktur begünstigt nicht nur den synchronen Vortrag, sondern
 
 ---
 
-## 5. Dekognitive Dekodierung der "Scribal Compression" (Zeilen-Enden)
+## 6. Dekognitive Dekodierung der "Scribal Compression" (Zeilen-Enden)
 
 Das Phänomen, dass Rongorongo-Schreiber Symbole am rechten Rand der Zeile massiv verkleinern und zusammenquetschen, fügt sich nahtlos in dieses Dual-System ein:
 
@@ -75,7 +96,7 @@ Das Phänomen, dass Rongorongo-Schreiber Symbole am rechten Rand der Zeile massi
 
 ---
 
-## 6. Fazit
+## 7. Fazit
 
 Rongorongo lässt sich in diesem Modell als ergonomisch, kognitiv und physisch begründetes Werkzeug für synchrone Zwei-Personen-Abläufe (Lesen wie Gravieren) plausibilisieren.
 
