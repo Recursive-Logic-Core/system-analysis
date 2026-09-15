@@ -11,9 +11,12 @@ Diese Analyse dekonstruiert das Script über die **Physik des Mediums, die physi
 ## 2. Die physikalisch-biologischen Axiome
 
 ### A. Das physische Fundament & Die Last-Mechanik
-* **Der physische Alltag:** Das Leben auf Rapa Nui war von harter körperlicher Arbeit geprägt (Feldbau, Kanubau, Transport schwerer Lasten). Arme und Schultern waren im Alltag stark beansprucht.
-* **Das Material-Risiko (Knappe Ressource Holz):** Holz war auf der stark abgeholzten Insel ein extrem kostbares Gut. Eine schwere Holztafel (bis zu 2,6 kg Masse, über 1 m Länge) durfte unter keinen Umständen beschädigt werden oder auf den Boden schlagen.
-* **Ergonomische Skalierung (Plausibilitätsannahme):** Aus ergonomischer Sicht beschränkt sich das Problem ermüdender Muskelarbeit nicht zwingend auf Monumentaltafeln von über 2 kg. Es liegt nahe, dass auch bei kleineren oder leichteren Medien eine feste Auflagefläche zwischen zwei Personen das Risiko von Haltefehlern, Abrutschen und Materialabrieb bei langwierigen Zeremonien deutlich minimiert haben dürfte.
+* **Alltägliche manuelle Grundbelastung:** Die subsistence-basierte Lebensweise auf Rapa Nui erforderte kontinuierliche manuelle Tätigkeiten (u. a. Garten- und Feldbau, Werkzeugherstellung, Fischfang, Transport). Unabhängig von einer arbeitsteiligen Spezialisierung unterlag der Bewegungsapparat – insbesondere Hände, Unterarme und der Schultergürtel – einer regelmäßigen physischen Beanspruchung.
+* **Das Material-Risiko (Knappe Ressource Holz):** Verwendetes Treib- und Hartholz war auf der isolierten, weitgehend entwaldeten Insel ein unersetzliches Gut. Ein Artefakt durfte weder durch Stürze zersplittern noch durch unkontrolliertes Aufschlagen beschädigt werden.
+* **Biomechanische Ermüdung (Isometrische Haltearbeit & Feinmotorik):** 
+  * Der limitierende Faktor ist nicht primär die Masse des Objekts, sondern die **Dauer der statischen Muskelanspannung (Isometrie)**: Werden Hände und Unterarmbeuger durch vorausgegangene manuelle Arbeit oder durch das kraftaufwendige Führen von Gravierwerkzeugen (Obsidian/Zahn) belastet, tritt eine neuromuskuläre Ermüdung ein. 
+  * Bei anhaltenden rituellen Rezitationen führt diese statische Haltearbeit unweigerlich zu **Mikrotremor (Muskelzittern), schwindender Griffkraft und Sehnenüberlastung**. 
+  * Unter solchen physiologischen Bedingungen birgt das wiederholte, freihändige Manipulieren und Wenden – selbst bei geringem Tafelgewicht von wenigen hundert Gramm – ein signifikantes Risiko für motorische Kontrollverluste und Stürze. Eine feste Auflage bzw. das gemeinsame Sichern zwischen zwei Personen stellt eine naheliegende ergonomische Maßnahme dar, um dieses Risiko zu minimieren.
 
 ### B. Das Ergonomie-Paradoxon (Die Grenzen des Einzel-Betriebs)
 * Ein körperlich beanspruchter Mensch mit erschöpften Armen kann eine schwere Holztafel kaum über längere Zeit frei halten oder sie stundenlang im Kreis drehen. 
@@ -51,10 +54,9 @@ Ein logisches Interaktionsmodell muss nicht zwingend eine starre mechanische Sym
 * Artefakte mit ungerader Zeilenzahl widerlegen ein Wechselmodell nicht zwangsläufig. In vielen liturgischen Kontexten liegt die Annahme nahe, dass Rollen asymmetrisch verteilt waren: Ein Hauptsprecher könnte das Ritual eröffnet und mit einer ungeraden Schlusszeile (z. B. Segensformel oder rituelle Bestätigung) bewusst abgeschlossen haben.
 * Ein funktionaler Dialog erfordert aus logischer Sicht keine mathematische 50/50-Parität der Zeilen.
 
-### B. Gestaffelte Mehr-Tafel-Nutzung (Hypothese zum kontinuierlichen Vortrag)
-* Bei längeren Rezitationen ist anzunehmen, dass mehrere Träger parallel oder nacheinander zum Einsatz kamen.
-* **Laufende Übergabe:** Lagen Tafeln beispielsweise übereinander, ergibt sich eine plausible Arbeitsteilung: Während Person B die letzte Zeile des oberen Trägers vortrug, konnte Person A bereits die nächste Tafel bereitlegen. Ein Wechsel von Tafel zu Tafel wäre damit ohne Verzögerung im Vortrag denkbar.
-* Endete ein Träger bei Sprecher A, konnte die nächste Tafel folgerichtig direkt von Sprecher B begonnen werden.
+### B. Materialknappheit & Formatbegrenzung (Mehr-Tafel-Nutzung)
+* **Materialdiktat statt Textlänge:** Da Holz extrem knapp war, bestimmte der vorhandene Holzrohling die maximale Zeilenkapazität, nicht der Umfang des rituellen Texts. Längere Mythen oder Liturgien mussten zwangsläufig auf mehrere separate Träger aufgeteilt werden.
+* **Unterbrechungsfreier Wechsel:** Endete ein Textabschnitt am Ende einer Tafel bei Sprecher A, konnte die Anschlusstafel unmittelbar durch Sprecher B eröffnet werden. Dies erklärt das Vorhandensein zusammengehöriger Tafel-Sequenzen ohne die Notwendigkeit spekulativer simultaner Umschichtungen während des Vortrags.
 
 ### C. Morphologische Varianten (Überlegungen zu Rundkörpern & Stäben)
 * **Monologische Textblöcke:** Eine 180°-Anordnung schließt nicht aus, dass längere Passagen (z. B. Ahnenreihen) zunächst von nur einer Person vorgetragen wurden, bevor an rituellen Übergangspunkten die Übergabe an das Gegenüber erfolgte.
