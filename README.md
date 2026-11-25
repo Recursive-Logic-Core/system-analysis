@@ -8,6 +8,10 @@ Dieses Repository dokumentiert forensische Analysen und logische Struktur-Rekons
 
 Die Analysen basieren auf menschlicher Hypothesenbildung aus First Principles (Materialgrenzen, Biomechanik, Schnittstellen-Ergonomie). Moderne Sprachmodelle fungieren hierbei nicht als Erkenntnisquelle, sondern rein als rechnerische Inferenz- und Parsing-Werkzeuge zur Überprüfung und Modellierung dieser strukturellen Annahmen.
 
+> [!NOTE]
+> **Epistemischer Rahmen & Falsifizierbarkeit:** Die hier dokumentierten Analysen erheben keinen Anspruch auf historische Absolutheit, sondern definieren strukturierte, logisch hergeleitete Arbeitshypothesen. Sie zeigen auf, welche Systemarchitektur unter realen physischen und operativen Bedingungen am schlüssigsten erscheint – und stehen als offene Prüfmodelle genau so lange, bis sie durch empirische Belege oder ein konsistenteres Gegenmodell widerlegt werden.
+
+
 ## Methodischer Ansatz
 
 * **Physikalische Randbedingungen & Ergonomie:** Berücksichtigung von Materialeigenschaften, Handhabungsrisiken, kinematischer Lastverteilung und menschlicher Belastungsgrenzen.
